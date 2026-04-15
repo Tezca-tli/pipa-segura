@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos sensibles o temporales
+.env
+data/reporte_visual.png
